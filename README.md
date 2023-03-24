@@ -1,5 +1,4 @@
 # Reto_6
-# Reto_6
 Aqui podran encontrar todos los puntos del reto 6
 
 ## Punto 1
